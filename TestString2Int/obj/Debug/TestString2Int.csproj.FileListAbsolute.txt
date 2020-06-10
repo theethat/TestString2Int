@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\TestString2Int\TestString2Int\bin\Debug\TestString2Int.exe.config
+C:\Users\Tom\source\repos\TestString2Int\TestString2Int\bin\Debug\TestString2Int.exe
+C:\Users\Tom\source\repos\TestString2Int\TestString2Int\bin\Debug\TestString2Int.pdb
+C:\Users\Tom\source\repos\TestString2Int\TestString2Int\obj\Debug\TestString2Int.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\TestString2Int\TestString2Int\obj\Debug\TestString2Int.exe
+C:\Users\Tom\source\repos\TestString2Int\TestString2Int\obj\Debug\TestString2Int.pdb
